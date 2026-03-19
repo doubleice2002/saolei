@@ -1,0 +1,5 @@
+{
+  "name": "Cat Sweeper",
+  "description": "A cat-themed Minesweeper game where winning fills the screen with bouncing cats.",
+  "requestFramePermissions": []
+}
